@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AugustoEXE/validar-cartao/issues"
   },
-  "homepage": "https://github.com/AugustoEXE/validar-cartao#readme"
+  "homepage": "https://github.com/AugustoEXE/validar-cartao#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
