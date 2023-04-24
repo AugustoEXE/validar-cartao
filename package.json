@@ -1,0 +1,19 @@
+{
+  "name": "validar-cartao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AugustoEXE/validar-cartao.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AugustoEXE/validar-cartao/issues"
+  },
+  "homepage": "https://github.com/AugustoEXE/validar-cartao#readme"
+}
