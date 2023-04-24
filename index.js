@@ -7,6 +7,6 @@ app.get("/", (req, res) => {
   res.sendFile(__dirname + "/public/index.html");
 });
 
-// app.listen(3001, () => {
-//   console.log(`Example app listening at http://localhost:3001`);
-// });
+app.listen(3001, () => {
+  console.log(`Example app listening at http://localhost:3001`);
+});
